@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(){
+	float notas[30];
+	
+	for(int i=0;i<=30;i++){
+		printf("Digite a nota aqui:");
+		scanf("%f",&notas[i]);
+		
+	}
+
+}
